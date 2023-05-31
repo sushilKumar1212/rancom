@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "425291919517",
+    "project_id": "thecarcourier-1",
+    "storage_bucket": "thecarcourier-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:425291919517:android:268d7633796fcaab5d6474",
+        "android_client_info": {
+          "package_name": "com.ibyte.thecourierapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "425291919517-m8ltgasneeuen406q59tv3tick7rch25.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ibyte.thecourierapp",
+            "certificate_hash": "7bfbbcdfd178bd6590448c91f7bf7f253bd9e288"
+          }
+        },
+        {
+          "client_id": "425291919517-vu28pjsvfcn2qlgdrq2m50sje988n8f2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDZNppUJ5EwGWSjepA6kBWbmQBQL2wUHLg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "425291919517-vu28pjsvfcn2qlgdrq2m50sje988n8f2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "425291919517-46rev0j0jskhsihg65fo8nnpd7a2gh1a.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.ibyte.thecourierapp"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

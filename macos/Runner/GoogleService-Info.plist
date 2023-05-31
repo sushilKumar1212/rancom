@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>425291919517-46rev0j0jskhsihg65fo8nnpd7a2gh1a.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.425291919517-46rev0j0jskhsihg65fo8nnpd7a2gh1a</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>425291919517-m8ltgasneeuen406q59tv3tick7rch25.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAdOFwxCv9unC7HVDU7B0yIFWZzkNW-oBo</string>
+	<key>GCM_SENDER_ID</key>
+	<string>425291919517</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.ibyte.thecourierapp</string>
+	<key>PROJECT_ID</key>
+	<string>thecarcourier-1</string>
+	<key>STORAGE_BUCKET</key>
+	<string>thecarcourier-1.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:425291919517:ios:49868a16bd9599735d6474</string>
+</dict>
+</plist>
